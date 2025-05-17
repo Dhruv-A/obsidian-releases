@@ -17169,5 +17169,12 @@
     "author": "Callum Alpass",
     "description": "Create literature notes and manage bibliographic references",
     "repo": "callumalpass/obsidian-biblib"
-  }
+  },
+ {
+    "id": "quick-date-picker",
+    "name": "Quick Date Picker",
+    "author": "Dhruv-A",
+    "description": "A quick date picker plugin for Obsidian",
+    "repo": "Dhruv-A/quick-date-picker"
+ }
 ]
